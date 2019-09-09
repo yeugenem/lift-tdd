@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lift", "Lift\Lift.csproj", "{EC4B88ED-F9F5-41D3-B5B8-03A3EB8CA383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lift.Tests", "Lift.Tests\Lift.Tests.csproj", "{8A7F10ED-3003-486A-8C6B-7319DC2321C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4B88ED-F9F5-41D3-B5B8-03A3EB8CA383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4B88ED-F9F5-41D3-B5B8-03A3EB8CA383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4B88ED-F9F5-41D3-B5B8-03A3EB8CA383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4B88ED-F9F5-41D3-B5B8-03A3EB8CA383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7F10ED-3003-486A-8C6B-7319DC2321C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7F10ED-3003-486A-8C6B-7319DC2321C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7F10ED-3003-486A-8C6B-7319DC2321C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7F10ED-3003-486A-8C6B-7319DC2321C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C3B72B-A255-4637-BA2C-E193B48E75D6}
+	EndGlobalSection
+EndGlobal
